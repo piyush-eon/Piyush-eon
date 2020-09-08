@@ -1,7 +1,8 @@
 ### Hi there, I'm Piyush👦,
 A 22 Y/O Web designer🌈 and developer🎯 from India.
 
-- 🌱 I’m currently learning NodeJs, Express and ReactJs
+- 👨‍💻 Interning as a React JS Developer
+- 🌱 I’m currently learning NodeJs, Express and MongoDB
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/piyush.vo) - [@Piyush_eon](https://twitter.com/piyush_eon)
 - 🎙 Freelance Voice Over Artist
 
@@ -10,6 +11,7 @@ A 22 Y/O Web designer🌈 and developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush55dude&show_icons=true&hide=["issues"])
 
