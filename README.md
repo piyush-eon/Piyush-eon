@@ -1,5 +1,5 @@
 ### Hi there, I'm Piyush👦,
-A 22Y/O Web designer🌈 and developer🎯 from India.
+A 22 Y/O Web designer🌈 and developer🎯 from India.
 
 - 🌱 I’m currently learning NodeJs, Express and ReactJs
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/piyush.vo) - [@Piyush_eon](https://twitter.com/piyush_eon)
