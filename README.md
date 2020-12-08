@@ -13,9 +13,9 @@ A 22 Y/O Web designer🌈 and developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush55dude&show_icons=true&hide=["issues"])
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&show_icons=true&hide=["issues"])
 
-[![HitCount](http://hits.dwyl.com/piyush55dude/piyush55dude.svg)](http://hits.dwyl.com/piyush55dude/piyush55dude)
+[![HitCount](http://hits.dwyl.com/piyush-eon/piyush-eon.svg)](http://hits.dwyl.com/piyush-eon/piyush-eon)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -26,4 +26,4 @@ A 22 Y/O Web designer🌈 and developer🎯 from India.
 <a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/piyush55dude)-->
+ <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
