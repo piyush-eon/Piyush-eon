@@ -14,8 +14,10 @@ A 22 Y/O Web designer🌈 and developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&layout=compact)
 
 [![HitCount](http://hits.dwyl.com/piyush-eon/piyush-eon.svg)](http://hits.dwyl.com/piyush-eon/piyush-eon)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
