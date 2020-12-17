@@ -1,7 +1,7 @@
 ### Hi there, I'm Piyush👦,
 A 22 Y/O Web designer🌈 and developer🎯 from India.
 
-- 👨‍💻 Interning as a React JS Developer
+- 👨‍💻 React JS Developer
 - 🌱 Currently learning NodeJs, Express and MongoDB
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/piyush.vo) - [@Piyush_eon](https://instagram.com/piyush_eon)
 - 🎙 Freelance Voice Over Artist
