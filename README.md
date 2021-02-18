@@ -1,8 +1,8 @@
 ### Hi there, I'm Piyush👦,
 A 22 Y/O Web designer🌈 and developer🎯 from India.
 
-- 👨‍💻 React JS Developer
-- 🌱 Currently learning NodeJs, Express and MongoDB.
+- 👨‍💻 Full Stack MERN Developer
+- 🌱 Currently learning React Native and DevOps.
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder)
 - 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
