@@ -1,5 +1,5 @@
 ### Hi there, I'm Piyush👦,
-A 22 Y/O Web designer🌈 and developer🎯 from India.
+A Full Stack Web developer🎯 and designer🌈 from India.
 
 - 👨‍💻 Full Stack MERN Developer
 - 🌱 Currently learning React Native and DevOps.
