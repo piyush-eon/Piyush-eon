@@ -2,7 +2,7 @@
 A Full Stack Web developer🎯 and designer🌈 from India.
 
 - 👨‍💻 Full Stack MERN Developer
-- 🌱 Currently learning React Native and DevOps.
+- 🌱 Currently learning React Native and Typescript.
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder)
 - 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
