@@ -1,5 +1,5 @@
 ### Hi there, I'm Piyush👦,
-A Full Stack Web developer🎯 and designer🌈 from India.
+A Full Stack Web developer🎯 and designer🎨 from India.
 
 - 👨‍💻 Full Stack MERN Developer
 - 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) <!-- - 🌱 Currently learning Svelte. -->
